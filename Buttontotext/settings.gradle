@@ -1,0 +1,2 @@
+rootProject.name = "Button to text"
+include ':app'
